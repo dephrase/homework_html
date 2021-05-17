@@ -1,0 +1,19 @@
+header{
+    background-color: dodgerblue;
+    color: white;
+}
+
+footer{
+    background-color: dodgerblue;
+    text-align: center;
+    color: white;
+}
+
+header:link {
+    color: white;
+}
+
+header:visited {
+    color: purple;
+}
+
